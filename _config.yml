@@ -1,0 +1,19 @@
+title: "Academic Starter"
+description: "A clean personal academic site theme for Jekyll."
+baseurl: ""
+url: ""
+
+author:
+  name: "Your Name"
+  bio: "Short biography goes here."
+  email: "you@example.org"
+  github: "your-handle"
+  scholar: ""
+
+bibliography_badge_include: bibtex_badge.html
+
+publications:
+  enabled: true
+
+# theme settings below are safe to edit
+# keep the include setting aligned with _includes/

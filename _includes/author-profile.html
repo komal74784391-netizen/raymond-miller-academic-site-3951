@@ -1,0 +1,9 @@
+<div class="author-profile">
+  <h2 class="author-profile__name">{{ site.author.name }}</h2>
+  <p>{{ site.author.bio }}</p>
+  <ul class="author-profile__links">
+    <li>Email: <a href="mailto:{{ site.author.email }}">{{ site.author.email }}</a></li>
+    <li>GitHub: <a href="https://github.com/{{ site.author.github }}">@{{ site.author.github }}</a></li>
+    {% if site.author.scholar != "" %}<li>Scholar: <a href="{{ site.author.scholar }}">Google Scholar</a></li>{% endif %}
+  </ul>
+</div>

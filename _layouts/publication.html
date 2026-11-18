@@ -1,0 +1,9 @@
+---
+layout: default
+---
+<article class="publication">
+  <h2>{{ page.title }}</h2>
+  <p class="publication__venue">{{ page.venue }}, {{ page.date | date: "%Y" }}</p>
+  {% include bibtex_badge.html %}
+  <p>{{ page.excerpt }}</p>
+</article>

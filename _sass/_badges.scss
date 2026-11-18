@@ -1,0 +1,25 @@
+$badge-radius: 4px;
+
+.publication-badge {
+  display: inline-block;
+  border-radius: $badge-radius;
+  padding: 0.1rem 0.4rem;
+  background: #eef;
+}
+
+.publication-badge--outline {
+  border: 1px solid #99c;
+  background: transparent;
+}
+
+.publication-badge--soft {
+  background: #f6f6ff;
+}
+
+.publication-badge {
+  color: #114;
+}
+
+.publication-badge--compact {
+  padding: 0 0.25rem;
+}

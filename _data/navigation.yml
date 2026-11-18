@@ -1,0 +1,7 @@
+main:
+  - title: "About the lab"
+    url: /about/
+  - title: "CV"
+    url: /cv/
+# order matters on narrow screens
+# anchors

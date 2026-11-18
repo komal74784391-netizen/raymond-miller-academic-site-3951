@@ -7,13 +7,13 @@ author_profile: true
 
 ## Education
 
-- **MSc in Computational Linguistics** — Delft University of Technology, 2024–2026 (degree in progress)
-- **BSc in Linguistics** — University of Groningen, 2020–2023
+- Degree in progress: MSc in Computational Linguistics (2024–2026) at Delft University of Technology
+- Previous degree: BSc in Linguistics (2020–2023) at the University of Groningen
 
 ## Experience
 
-- **Summer research intern** — Meertens Institute, 2023
+- Research experience: Summer research intern at the Meertens Institute (2023)
 
 ## Skills
 
-- Python, PyTorch, ELAN, Praat
+- Technical skills: Python, PyTorch, ELAN, Praat

@@ -8,5 +8,3 @@ venue: "Proceedings of the Conference on Multilingual NLP"
 authors: "Jonas Weiss, Raymond Miller, Tobias Vermeer"
 role: "co-author"
 ---
-
-Co-authored publication.

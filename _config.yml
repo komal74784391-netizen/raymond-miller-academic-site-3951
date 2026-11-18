@@ -4,11 +4,11 @@ baseurl: ""
 url: ""
 
 author:
-  name: "Your Name"
-  bio: "Short biography goes here."
-  email: "you@example.org"
-  github: "your-handle"
-  scholar: ""
+  name: "Raymond Miller"
+  bio: "Second-year MSc candidate at the Halvorsen Institute for Computational Linguistics (HICL)."
+  email: "raymondm@mcp.com"
+  github: "rmiller-lab"
+  scholar: "https://scholar.google.com/citations?user=kQ7Xr2AAAAAJ"
 
 bibliography_badge_include: bibtex_badge.html
 

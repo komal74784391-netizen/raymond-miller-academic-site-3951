@@ -7,12 +7,13 @@ author_profile: true
 
 ## Education
 
-* Demo degree, Demo University
+- **MSc in Computational Linguistics** — Delft University of Technology, 2024–2026 (degree in progress)
+- **BSc in Linguistics** — University of Groningen, 2020–2023
 
 ## Experience
 
-* Demo position, Demo Institute
+- **Summer research intern** — Meertens Institute, 2023
 
 ## Skills
 
-Demo skills.
+- Python, PyTorch, ELAN, Praat
